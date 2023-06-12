@@ -30,8 +30,8 @@ jobs:
 
             - name: Build
               run: |
-              yarn
-              yarn  build
+                yarn
+                yarn  build
 
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@v4.4.2
