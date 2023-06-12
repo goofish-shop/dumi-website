@@ -18,3 +18,11 @@ $ yarn run build
 ## LICENSE
 
 MIT
+
+```json
+{
+  "commitlint": {
+    "extends": ["@commitlint/config-conventional"]
+  }
+}
+```
