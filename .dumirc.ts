@@ -3,7 +3,7 @@ import { defineConfig } from 'dumi';
 export default defineConfig({
   themeConfig: {
     name: 'dumi-website',
-    footer: 'goofish-shop',
+    footer: `Copyright © ${new Date().getFullYear()} Powered by  goofish-shop`,
     socialLinks: {
       github: 'https://github.com/goofish-shop'
     }

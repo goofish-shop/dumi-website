@@ -15,6 +15,11 @@ $ yarn start
 $ yarn run build
 ```
 
+```bash
+git commit 
+# fix(server): send 
+```
+
 ## LICENSE
 
 MIT
