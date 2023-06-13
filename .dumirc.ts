@@ -4,5 +4,6 @@ export default defineConfig({
   themeConfig: {
     name: 'dumi-website',
   },
-  base: '/dumi-website/'
+  base: '/dumi-website/',
+  publicPath: '/dumi-website/'
 });
