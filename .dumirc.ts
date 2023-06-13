@@ -9,5 +9,11 @@ export default defineConfig({
     }
   },
   base: '/dumi-website/',
-  publicPath: '/dumi-website/'
+  publicPath: '/dumi-website/',
+  analytics: {
+    // Google Analytics 代码，配置后会启用
+    ga: 'G-DTZSGLTWHW',
+    // 百度统计代码，配置后会启用
+  
+  },
 });
